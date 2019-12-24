@@ -1,0 +1,15 @@
+.btn-settings {
+    padding: spacer('medium');
+    box-shadow: $box-shadow;
+    border-radius: 50%;
+    background-color: color('blue', 'base');
+    color: color('white', 'base');
+    position: fixed;
+    right: 16px;
+    bottom: 16px;
+}
+
+.btn-settings:hover {
+    cursor: pointer;
+    background-color: color('blue', 'dark');
+}

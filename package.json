@@ -1,0 +1,20 @@
+{
+  "name": "proverbs-everyday-jquery",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://DavinaLSY@bitbucket.org/DavinaLSY/proverbs-everyday-jquery.git"
+  },
+  "keywords": [],
+  "author": "Davina Leong <leong.shi.yun@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/DavinaLSY/proverbs-everyday-jquery#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
