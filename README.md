@@ -1,2 +1,2 @@
-# Frontend Boilerplate 2019
+# Frontend Boilerplate
 
