@@ -15,6 +15,6 @@
   "license": "MIT",
   "homepage": "https://bitbucket.org/DavinaLSY/proverbs-everyday-jquery#readme",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
